@@ -19,6 +19,9 @@ export function Footer() {
             <Link href="/popular" className="hover:text-primary">
               Popular comparisons
             </Link>
+            <Link href="/blog" className="hover:text-primary">
+              Blog
+            </Link>
             <Link href="/about" className="hover:text-primary">
               About
             </Link>
